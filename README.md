@@ -4,6 +4,21 @@ A modern Flutter movie search application that fetches real-time movie data usin
 This project demonstrates REST API integration, JSON parsing, shimmer loading, favorites feature, and a Netflix-style dark UI.
 
 ---
+## 📸 Screenshots
+
+### 🖼️ Screen 1
+![Screen1](assets/screenshot1.png)
+
+### 🖼️ Screen 2
+![Screen2](assets/screenshot2.png)
+
+### 🖼️ Screen 3
+![Screen3](assets/screenshot3.png)
+
+### 🖼️ Screen 4
+![Screen4](assets/screenshot4.png)
+
+---
 
 ## 🚀 Features
 
@@ -64,27 +79,6 @@ The app fetches movie data from OMDb in JSON format and converts it into Dart ob
 4. UI updated using `FutureBuilder`
 
 This ensures type safety and clean architecture.
-
----
-
-## 📸 Screenshots
-
-> Add your screenshots in the path below and they will appear here.
-
-```
-assets/screenshots1.png
-assets/screenshots2.png
-assets/screenshots3.png
-assets/screenshots4.png
-```
-
-Example (after adding images):
-
-```md
-![Home](assets/screenshots/home.png)
-![Details](assets/screenshots/details.png)
-![Favorites](assets/screenshots/favorites.png)
-```
 
 ---
 
