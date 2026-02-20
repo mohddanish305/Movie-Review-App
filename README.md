@@ -7,16 +7,16 @@ This project demonstrates REST API integration, JSON parsing, shimmer loading, f
 ## 📸 Screenshots
 
 ### 🖼️ Screen 1
-![Screen1](assets/screenshot1.png)
+![Screen1](assets/Screenshot1.png)
 
 ### 🖼️ Screen 2
-![Screen2](assets/screenshot2.png)
+![Screen1](assets/Screenshot2.png)
 
 ### 🖼️ Screen 3
-![Screen3](assets/screenshot3.png)
+![Screen1](assets/Screenshot3.png)
 
 ### 🖼️ Screen 4
-![Screen4](assets/screenshot4.png)
+![Screen1](assets/Screenshot4.png)
 
 ---
 
